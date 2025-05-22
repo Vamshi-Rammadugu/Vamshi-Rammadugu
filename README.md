@@ -5,12 +5,25 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Salesforce
+- 🌱 I’m currently learning AI- Agentforce
+- 👯 I’m looking to collaborate on Site reliablility engineer
+- 🤔 I’m looking for help with ...SRE Roles
+- 💬 Ask me about anything that pops your mind
+- 📫 How to reach me: rvamshi3105@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ 
+
+To do list:
+Salesforce repo
+Leetcode addition
+Neetcode addition
+Docker
+K8
+Jenkins
+Terrform
+Certs
+Mini projects
+Agentforce
+Blogs.
+
